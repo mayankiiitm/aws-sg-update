@@ -1,0 +1,28 @@
+{
+  "name": "aws-sg-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankiiitm/aws-sg-update.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankiiitm/aws-sg-update/issues"
+  },
+  "homepage": "https://github.com/mayankiiitm/aws-sg-update#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.817.0",
+    "configstore": "^5.0.1"
+  }
+}
